@@ -1,4 +1,3 @@
-# CPSC473-HW8-ember-quickstart
 # library-app
 
 This README outlines the details of collaborating on this Ember application.
